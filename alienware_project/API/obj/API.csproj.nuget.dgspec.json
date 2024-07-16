@@ -1,37 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/API/API.csproj": {}
+    "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\API\\API.csproj": {}
   },
   "projects": {
-    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/API/API.csproj": {
+    "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/API/API.csproj",
-        "packagesPath": "/Users/erickmendoza/.nuget/packages/",
-        "outputPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/API/obj/",
+        "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/erickmendoza/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj": {
-                "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj"
+              "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\DATA.csproj": {
+                "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\DATA.csproj"
               },
-              "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {
-                "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj"
+              "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -40,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,35 +81,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj": {
+    "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj",
-        "packagesPath": "/Users/erickmendoza/.nuget/packages/",
-        "outputPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/obj/",
+        "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\DATA.csproj",
+        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\DATA\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/erickmendoza/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {
-                "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj"
+              "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -107,6 +124,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -128,27 +150,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {
+    "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj",
-        "packagesPath": "/Users/erickmendoza/.nuget/packages/",
-        "outputPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/obj/",
+        "projectPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\GitHub\\internship\\alienware_project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/erickmendoza/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -161,6 +189,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -182,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
