@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6E8E9106-0AFE-4960-885F-CBADA52FF4EF}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/DTOs/ComputerOutputDTO.cs">
+    <Files>
+      <File FileName="API/Controllers/ComputerController.cs" Line="18" Column="18" />
+      <File FileName="DATA/Services/ComputerService.cs" Line="11" Column="4" />
+      <File FileName="Domain/DTOs/ComputerDTO.cs" Line="8" Column="57" />
+      <File FileName="Domain/DTOs/ComputerOutputDTO.cs" Line="4" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alienware_project" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/erickmendoza/Projects/alienware_project/API/Controllers/WeatherForecastController.cs" relfile="API/Controllers/WeatherForecastController.cs" line="25" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
