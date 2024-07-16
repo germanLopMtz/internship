@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj": {}
+    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj": {
+    "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj",
+        "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj",
         "packagesPath": "/Users/erickmendoza/.nuget/packages/",
-        "outputPath": "/Users/erickmendoza/Projects/alienware_project/Domain/obj/",
+        "outputPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erickmendoza/.nuget/NuGet/NuGet.Config"

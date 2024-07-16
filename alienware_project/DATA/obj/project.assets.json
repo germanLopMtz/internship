@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erickmendoza/Projects/alienware_project/DATA/DATA.csproj",
+      "projectUniqueName": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj",
       "projectName": "DATA",
-      "projectPath": "/Users/erickmendoza/Projects/alienware_project/DATA/DATA.csproj",
+      "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/DATA.csproj",
       "packagesPath": "/Users/erickmendoza/.nuget/packages/",
-      "outputPath": "/Users/erickmendoza/Projects/alienware_project/DATA/obj/",
+      "outputPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/DATA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erickmendoza/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj": {
-              "projectPath": "/Users/erickmendoza/Projects/alienware_project/Domain/Domain.csproj"
+            "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj": {
+              "projectPath": "/Users/erickmendoza/Documents/GitHub/Environment/internship/alienware_project/Domain/Domain.csproj"
             }
           }
         }
